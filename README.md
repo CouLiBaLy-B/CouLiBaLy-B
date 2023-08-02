@@ -1,8 +1,6 @@
 - 👋 Hi, I’m coulibaly bourahima
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Maths
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in Machine Learning & AI
+- 💞️ I’m looking to collaborate on Machine Learning & AI projects
 
 <!---
 CouLiBaLy-B/CouLiBaLy-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
