@@ -14,7 +14,7 @@ En plus de cela, je suis également passionné par le développement web. J'aime
 
 - **Langages de programmation** : Python, R, SQL, C++, C
 - **Bibliothèques d'apprentissage automatique** : Scikit-learn, TensorFlow, PyTorch
-- **Développement web** : HTML, CSS, JavaScript
+- **Développement web** : HTML, CSS, JavaScript, Djanog, Flask, FastAPI, Streamlit
 - **Outils de visualisation de données** : Matplotlib, Seaborn, Plotly
 - **Gestion de bases de données** : MySQL, PostgreSQL, GCP
 
