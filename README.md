@@ -21,7 +21,7 @@ En plus de cela, je suis également passionné par le développement web. J'aime
 ## Projets 📚
 
 Vous trouverez dans mes dépôts une variété de projets sur lesquels j'ai travaillé, allant de l'analyse exploratoire des données à la mise en œuvre de modèles d'apprentissage en profondeur complexes. N'hésitez pas à jeter un coup d'œil et à me faire part de vos commentaires !
-
+D'autres projets sont également sur hugging face https://huggingface.co/bourahima 
 ## Contactez-moi 📫
 
 Si vous souhaitez discuter d'un projet ou simplement dire bonjour, n'hésitez pas à me contacter !
